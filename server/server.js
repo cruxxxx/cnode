@@ -23,6 +23,7 @@ if(!isDev){
 }
 
 app.listen(2333, function(){
-  console.log('server is listening')
+  console.log('server is listeningdjfbvjk')
 })
+
 
